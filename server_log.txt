@@ -1,0 +1,237 @@
+init_network_server start. Needed: 0
+Needed players calculated: 1 (Human Count: 2)
+Client connected! Socket: 1880, Assigned ID: 2
+init_network_server success. Closing listener.
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 4,2
+P2 Placed: 20,9
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Starting Broadcast Sequence
+init_network_server start. Needed: 0
+Needed players calculated: 1 (Human Count: 2)
+Client connected! Socket: 1756, Assigned ID: 2
+init_network_server success. Closing listener.
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 17,11
+P2 Placed: 14,1
+P3 Placed: 6,16
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Starting Broadcast Sequence
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 19,6
+P2 Placed: 7,20
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 17,39
+P2 Placed: 24,3
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 13,10
+P2 Placed: 6,1
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 12,27
+P2 Placed: 29,14
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 1,7
+P2 Placed: 13,5
+P3 Placed: 10,13
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 5,13
+P2 Placed: 14,7
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 8,19
+P2 Placed: 30,3
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 23,11
+P2 Placed: 3,31
+P3 Placed: 40,36
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 15,2
+P2 Placed: 2,11
+P3 Placed: 14,15
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 39,18
+P2 Placed: 10,15
+P3 Placed: 31,38
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+init_network_server start. Needed: 0
+Needed players calculated: 1 (Human Count: 2)
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 14,2
+P2 Placed: 5,8
+P3 Placed: 20,14
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 17,20
+P2 Placed: 19,5
+P3 Placed: 6,10
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 11,10
+P2 Placed: 18,20
+P3 Placed: 16,1
+P4 Placed: 6,18
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 6,12
+P2 Placed: 3,1
+P3 Placed: 14,9
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 25,8
+P2 Placed: 2,20
+P3 Placed: 8,2
+P4 Placed: 29,24
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 8,25
+P2 Placed: 23,29
+P3 Placed: 14,37
+P4 Placed: 16,8
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 15,6
+P2 Placed: 7,3
+P3 Placed: 1,14
+P4 Placed: 13,17
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 15,5
+P2 Placed: 20,16
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 17,10
+P2 Placed: 2,1
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 19,7
+P2 Placed: 12,4
+P3 Placed: 6,11
+P4 Placed: 18,20
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 19,14
+P2 Placed: 7,8
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 10,10
+P2 Placed: 16,2
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 17,19
+P2 Placed: 1,3
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 2,20
+P2 Placed: 8,6
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 5,25
+P2 Placed: 28,22
+P3 Placed: 9,12
+P4 Placed: 19,18
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 12,13
+P2 Placed: 15,2
+P3 Placed: 4,3
+P4 Placed: 7,15
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
+Entering Map Gen Loop
+Map Gen Attempt Start
+P1 Placed: 20,18
+P2 Placed: 6,17
+Generating Terrain...
+Checking Connectivity...
+Map Gen Success
